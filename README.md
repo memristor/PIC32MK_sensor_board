@@ -14,4 +14,4 @@ Step 4: When MPLAB X IDE restarts, select Tools > Embedded > MPLAB Harmony v3 Fr
 
 
 Firmware was developed on: 
-MP?LAB X v5.05 & Harmony v2_06
+MPLAB X v5.05 & Harmony v2_06
